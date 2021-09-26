@@ -7,9 +7,12 @@ excerpt_separator: <!--more-->
 ZX Šumava je za námi a i tentokrát vznikl krátký písemný záznam náhodně vyřčených vět náhodnými lidmi během náhodného večera. Snad se bude někomu hodit.
 <!--more-->
 
-```Sem byl fakt první celou dobu
-Fak fak fak .. sem to nadaboval
-A mlátí furt do toho
+```Sem byl fakt první celou dobu```
+
+```Fak fak fak .. sem to nadaboval```
+
+```A mlátí furt do toho```
+
 Já boucham takhle, ne takhle
 Jůůů takovejch lidiček
 Ovšém! Jdu náhodou kolem a ptám se nakupujících jak jim chutnají Esíčky.
