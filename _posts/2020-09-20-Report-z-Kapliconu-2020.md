@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Report z Kapliconu 2020
+excerpt_separator: <!--more-->
 ---
 
 Vůbec jsem neměla v plánu tento blog ještě oživovat, ale dokud ho mám kde mít, asi bych sem mohla i něco napsat. Chci se podělit o zážitky z letošní akce Kaplicon 2020. Asi si budete moct přečíst nějaký report v příštím čísle nového diskmagu <a href="http://restore.zxm.cz/">RESTORE</a>, ale chtěla bych i říct i svůj názor.
+<!--more-->
 
 Předně, Kaplicon už je stará akce. Jezdila jsem tam ne moc často, ale vždy to stálo za to. Letos bylo vše na staronovém místě v DDM v Kaplici. Akce trvala už od čtvrtka, ale až v sobotu se přihrnulo nejvíc lidí, včetně mě. Jela jsem s Dexem a vezla Logoutovi Macintosh, který jsem mu slíbila, z čehož byl snad mile překvapený, protože předpokládal předání jinde. Vzala jsem i DJ konzoli, kterou mám krátce a stále se s ní učím. Po předchozím úspěchu na ZX Šumavě jsem nabídla, že trochu zahraju i na Kapliconu, i když tuším, že můj set si získal na oblíbenosti jen pro zařazení AY skladby Pulse of Snake. No budiž. Večer jsem se tedy nabídla, že si na chvíli zahraju. Bohužel akce byla rušena přítomností nejmenovaného člověka, který po snaze poučit všechny o nutnosti samplování digitálních záznamů do analogové formy a jejich následném digitalizování na vyšší frekvenci zaútočil i na mě. Řeknu vám to na rovinu. Nemám ráda, když mě někdo podobným způsobem poučuje nebo mi chce osahávat techniku. Proto byl jemně upozorněn, že nemám zájem, načež po začátku pokusu o nějaké hraní demonstrativně projevil svou nevoli nad tím, že jsem si dovolila odmítnout jeho rady a přijít s něčím tak lamerským, jako je digtiální DJ konzole. Následovalo soustavné rušení ze strany tohoto jedince ve formě další zvukové produkce, což vzešlo i v nevoli ostatních zůčastněných. Jelikož jsem z toho byla dost nervózní a nesoustředěná, ukončila jsem set a toto chování mě dost demotivovalo. Opravdu. Jestli to má dotyčný na háku a nedokáže se přizpůsobit, ať na tu akci nechodí.
 
