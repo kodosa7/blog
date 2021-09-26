@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Japonsko 2016
-permalink: /japonsko2016/
+permalink: /japonsko-2016/
 ---
 
 ### Japonsko 2016
